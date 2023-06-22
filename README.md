@@ -1,6 +1,6 @@
 ### Hi there 👋
 ---
-**I'm Dan** - I started out as a fullstack engineer, and currently a backend engineer for the last 6 years. 
+**I'm Dan** - I started out as a fullstack engineer, and currently a backend engineer for the past 6 years. 
 
 :mag_right: I also push code snippets to [:octocat: Github gists](https://gist.github.com/dmkit).
 

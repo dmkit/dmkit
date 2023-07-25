@@ -10,7 +10,7 @@
 [![PACKAGIST](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://packagist.org/users/dmkit/packages/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danny.bangayan@gmail.com)
 
-#### I'm currently interested in:
+#### Technologies that I've used so far:
 
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/dmkit)
 [![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/dmkit)
@@ -26,4 +26,3 @@
 [![Redis](https://img.shields.io/badge/Redis-A41E11?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/dmkit)
 
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)](https://github.com/dmkit)
-[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://github.com/dmkit)

@@ -1,16 +1,6 @@
 ### Hi there 👋
 ---
-**I'm Dan**
-
-:mag_right: I also push code snippets to [:octocat: Github gists](https://gist.github.com/dmkit).
-
-#### I'm on:
-
-[![LINKEDIN]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danbangayan/)
-[![PACKAGIST](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://packagist.org/users/dmkit/packages/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danny.bangayan@gmail.com)
-
-#### Technologies that I've used so far:
+**I'm Dan**. I also push code snippets to [:octocat: Github gists](https://gist.github.com/dmkit).
 
 [![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)](https://github.com/dmkit)
 [![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/dmkit)
@@ -26,3 +16,9 @@
 [![Redis](https://img.shields.io/badge/Redis-A41E11?style=for-the-badge&logo=redis&logoColor=white)](https://github.com/dmkit)
 
 [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)](https://github.com/dmkit)
+
+#### I'm on:
+
+[![LINKEDIN]( https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danbangayan/)
+[![PACKAGIST](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)](https://packagist.org/users/dmkit/packages/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danny.bangayan@gmail.com)
